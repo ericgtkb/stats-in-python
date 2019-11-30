@@ -7,3 +7,6 @@ dependencies:
   - matplotlib
   - seaborn
   - pandas
+  - scikit-learn
+  - statsmodels
+
